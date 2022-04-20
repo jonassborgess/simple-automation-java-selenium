@@ -1,0 +1,27 @@
+INDEX VERSION 1.131+C:\OneDrive\QA - Quality Assurance\Projects\1_Automacao de Testes Passo a Passo com Java Selenium (Acessando um Site)\.metadata\.plugins\org.eclipse.jdt.core
+1969059132.index
+465501157.index
+1861962907.index
+3183399216.index
+1276327419.index
+3614116134.index
+3047877403.index
+811273984.index
+1163704229.index
+1970687669.index
+1042604401.index
+3418043718.index
+1404841021.index
+718599083.index
+1353511440.index
+4100824691.index
+1886968415.index
+3620363508.index
+2104078938.index
+1865797976.index
+1805096423.index
+2604761458.index
+815255857.index
+2716878285.index
+1978183423.index
+2356442992.index
